@@ -1,2 +1,5 @@
-# sql-intro-kaggle
-Introduction to SQL - Exercises from Kaggle
+# Introduction to SQL
+
+Contains all exercises from Kaggle
+
+![Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
