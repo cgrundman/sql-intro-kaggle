@@ -1,8 +1,8 @@
 # Introduction to SQL
 
-Contains all exercises from Kaggle
+Contains all exercises from Kaggle course introducing topics in SQL.
 
-![Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
+[Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
 
 ## 1. Introduction to SQL and BigQuery
 
