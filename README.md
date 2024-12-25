@@ -6,6 +6,8 @@ Contains all exercises from Kaggle course introducing topics in SQL.
 
 ## 1. Introduction to SQL and BigQuery
 
+Contains code to introduce SQL and how to use with the BigQuery library.
+
 ## 2. SELECT, WHERE, FROM
 
 ## 3. GROUPBY, HAVING, COUNT
